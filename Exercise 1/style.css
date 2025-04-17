@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #fff;
+    margin: 0;
+    padding: 0;
+  }
+  .page {
+    width: 794px; /* A4 Width */
+    margin: 0 auto;
+    padding: 40px;
+    box-sizing: border-box;
+    page-break-after: always;
+    background-color: #fdfdfd;
+    border: 1px solid #ccc;
+  }
+  header, footer {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  .logo {
+    width: 20px;
+    height: 10px;
+    display: block;
+    margin: 0 auto 10px;
+  }
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 30px;
+  }
+  th, td {
+    border: 1px solid #000;
+    padding: 8px;
+    text-align: left;
+  }
+  th {
+    background-color: #eee;
+  }
+  .page-number {
+    font-size: 0.85rem;
+    color: gray;
+  }
