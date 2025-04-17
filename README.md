@@ -39,3 +39,18 @@ Dynamic content is generated from JavaScript arrays/objects and rendered automat
 1. Clone the repo or download it.
 2. Open each `index.html` file in your browser.
 3. To change data, edit the JavaScript in `script.js` and refresh the browser.
+
+---
+
+## 🎥 Videos
+
+🔗 [Link to Exercise 1 Video https://www.loom.com/share/53eb6386db2546a0a6e420d5f418cadd?sid=19ee8e0c-4584-451d-9c71-6f0a92a5517b](#)  
+🔗 [Link to Exercise 2 Video](#)  
+
+> Videos demonstrate dynamic behavior, code structure, and challenges.
+
+---
+
+## 👨‍💻 Author
+
+**Praveen** – B.Tech in AI & ML at UVCE
