@@ -44,9 +44,8 @@ Dynamic content is generated from JavaScript arrays/objects and rendered automat
 
 ## 🎥 Videos
 
-🔗 [Link to Exercise 1 Video https://www.loom.com/share/53eb6386db2546a0a6e420d5f418cadd?sid=19ee8e0c-4584-451d-9c71-6f0a92a5517b](#)  
-🔗 [Link to Exercise 2 Video](#)  
-
+🔗 [Exercise 1 Video – Medical Request](https://www.loom.com/share/53eb6386db2546a0a6e420d5f418cadd)  
+🔗 [Exercise 2 Video – Progress Report](https://www.loom.com/share/922d1804791b4c8e8afcf270142e49f2)
 > Videos demonstrate dynamic behavior, code structure, and challenges.
 
 ---
